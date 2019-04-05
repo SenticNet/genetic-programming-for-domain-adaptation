@@ -1,0 +1,5 @@
+starting neuron:1
+meanError:0.14213849881554008
+meanError:0.007878902634013892
+meanError:0.0
+meanError:0.0
